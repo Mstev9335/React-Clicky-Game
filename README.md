@@ -6,11 +6,6 @@ This application is a memory guessing game that renders images to the page that 
 * CSS
 * Javascript
 * Node.js
-* MongoDB
-* Express npm package
-* Express-handlebars npm package
-* Axios npm package
-* Mongoose npm package
-* Cheerio npm package
+
 
 ### Deployed on Heroku: [React-Clicky-Game](https://radiant-tundra-27722.herokuapp.com/)
