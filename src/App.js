@@ -77,7 +77,7 @@ class App extends Component {
         />
 
         <Title>
-        Try to click each picture only once, if you click a duplicate the game is over
+        Try to click each country flag only once, if you click a duplicate the game is over
         </Title>
 
         <Container>
