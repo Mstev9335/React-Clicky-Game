@@ -18,7 +18,7 @@ function shuffleFriends(array) {
 };
 
 class App extends Component {
-  // Set this.state
+  // Setting state
   state = {
     friends,
     currentScore: 0,
