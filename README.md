@@ -7,5 +7,11 @@ This application uses the React Javascript Library in order to design a web page
 * Javascript
 * React Javascript Library
 
+### App starts
+![start](/assets/images/click1.png)
+
+### After clicking some of the flags
+![click](/assets/images/click2.png)
+
 
 ### Deployed on Heroku: [React-Clicky-Game](https://radiant-tundra-27722.herokuapp.com/)
